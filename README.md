@@ -17,7 +17,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Information Technology at [University of Information Technology](https://uit.edu.vn/)
-- 🤝 &nbsp; I’m openning for a new job opportunity, this is [MY CV](https://drive.google.com/file/d/1WqKatEPmPKDDKFnMSl-n8mW791rvhUCw/view?usp=sharing).
+- 🤝 &nbsp; I’m openning for a new job opportunity, this is [MY CV](https://drive.google.com/file/d/1VjXkTKbEsqJCFOo5m1SoP9iSF01U--bh/view?usp=drive_link).
 - 💼 &nbsp; I’m currently working on Frontend Development projects.
 - 🌱 &nbsp; I'm learning about Backend and Database Developement.
 
